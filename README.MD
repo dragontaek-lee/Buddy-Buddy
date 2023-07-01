@@ -16,8 +16,8 @@
 
 ### Input
 
-![input](https://github.com/dragontaek-lee/Buddy-Buddy/assets/54241139/9eb61771-5971-48b1-a046-6b7c5b5fee55)
+![image](https://github.com/dragontaek-lee/Buddy-Buddy/assets/54241139/2dc0fa9b-d7b6-400e-9ed3-ab96a4a5fedc)
 
 ### Output
 
-![output](https://github.com/dragontaek-lee/Buddy-Buddy/assets/54241139/cc049c22-0332-44d5-a18f-9ee95ed77639)
+![image](https://github.com/dragontaek-lee/Buddy-Buddy/assets/54241139/68164525-b8e3-42f5-aba4-76918e4ba43d)
