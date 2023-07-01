@@ -1,8 +1,6 @@
 # Buddy Buddy Cluster
 
-**👨‍👩‍👧 Buddy Buddy Cluster** : 거주 지역 거리 기반(가까운 순)으로 활동 조를 자동으로 묶어주는 프로젝트
-
-<br/>
+**Buddy Buddy Cluster** : 거주 지역 거리 기반(가까운 순)으로 활동 조를 자동으로 묶어주는 프로젝트
 
 ## 🛠 Used
 
@@ -13,10 +11,6 @@
 - openpyxl
 - pulp
 - [MinSizeKmeans](https://github.com/Behrouz-Babaki/MinSizeKmeans)
-
-<br/>
-                           
-<br/>
 
 ## 📈 Result
 
